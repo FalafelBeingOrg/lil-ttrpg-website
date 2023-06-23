@@ -6,8 +6,6 @@ creator: You
 
 this is my markdown adventure stuff here
 
-![A hex map showing six locations.](./hexmap.png "")\ 
-
 --------------------------------------------- 
 location   Description
 ---------  ---------------------------------- 
